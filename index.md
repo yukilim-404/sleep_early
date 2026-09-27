@@ -21,4 +21,5 @@ In our Supabase database, protected by row-level security so only your account c
 - Notifications can be turned off any time in Settings or your phone's system settings.
 
 ## Contact
-[YOUR EMAIL]
+limyueqi@gmail.com
+
